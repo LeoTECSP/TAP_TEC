@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\bin\Debug\EjecucionClase_LeonardoLoza.exe.config
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\bin\Debug\EjecucionClase_LeonardoLoza.exe
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\bin\Debug\EjecucionClase_LeonardoLoza.pdb
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\obj\Debug\EjecucionClase_LeonardoLoza.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\obj\Debug\EjecucionClase_LeonardoLoza.Form1.resources
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\obj\Debug\EjecucionClase_LeonardoLoza.Properties.Resources.resources
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\obj\Debug\EjecucionClase_LeonardoLoza.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\obj\Debug\EjecucionClase_LeonardoLoza.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\obj\Debug\EjecucionClase_LeonardoLoza.exe
+C:\Users\Dell\source\repos\EjecucionClase_LeonardoLoza\obj\Debug\EjecucionClase_LeonardoLoza.pdb
